@@ -37,3 +37,7 @@ My technology stack:
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-gray?style=for-the-badge&logo=SQLAlchemy)
 ![Airflow](https://img.shields.io/badge/-Airflow-gray?style=for-the-badge&logo=apacheairflow)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL)
+
+
+My contacts:
+![mail](https://img.shields.io/badge/-gmail-gray?style=for-the-badge&logo=gmail#center) eduardstepanyan88@yandex.ru
