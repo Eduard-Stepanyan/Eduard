@@ -12,12 +12,10 @@ Furthermore, I am constantly learning, exploring new concepts, reading books, an
 
 I'm looking forward to new challenges and opportunities in the field of machine learning!
 
-![Certificate_KARPOV_COURSES]
-(https://github.com/Eduard-Stepanyan/Eduard/blob/main/Karpov_Courses_Certificate_page-0001.jpg)
+![Certificate_KARPOV_COURSES](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Karpov_Courses_Certificate_page-0001.jpg)
 
-![Certificate_Yandex_Practicum]
-(https://github.com/Eduard-Stepanyan/Eduard/blob/main/Yandex%20Practicum_Certificate_page-0001.jpg)
-(https://github.com/Eduard-Stepanyan/Eduard/blob/main/Yandex%20Practicum_Certificate_page-0002.jpg)
+![Certificate_Yandex_Practicum_page1](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Yandex%20Practicum_Certificate_page-0001.jpg)
+![Certificate_Yandex_Practicum_page2](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Yandex%20Practicum_Certificate_page-0002.jpg)
 
 
 
