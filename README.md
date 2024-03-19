@@ -12,11 +12,12 @@ Furthermore, I am constantly learning, exploring new concepts, reading books, an
 
 I'm looking forward to new challenges and opportunities in the field of machine learning!
 
-![Certificate_Yandex Practicum](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Eduard%20Stepanyan_20232DS01118.pdf)
-![Certificate_KARPOV.COURSES](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Karpov_certificate_en_correct.pdf)
+![Certificate_KARPOV_COURSES](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Karpov_Courses_Certificate_page-0001.jpg)
+![Certificate_Yandex_Practicum](https://github.com/Eduard-Stepanyan/Eduard/blob/main/Yandex%20Practicum_Certificate_page-0002.jpg)
 
 
-Мой стек технологий:
+
+My technology stack:
 
 ![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=python)
 ![Sklearn](https://img.shields.io/badge/scikitlearn-gray?style=for-the-badge&logo=scikitlearn)
